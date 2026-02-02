@@ -12,7 +12,7 @@ Potential idea expansion: Include data from other TCG, like Digimon
 
 <b>Important Links:</b>
 <ul>
-    <li><a href="https://jordantanudjaja.github.io/Personal-TCG-Website/">Personal TCG Website</a></li>
-    <li><a href="https://docs.google.com/spreadsheets/d/1HXlNQt9LvZLEuLr5fW8b4DU7LpbNulrfEPDndrE7Abc/edit?gid=0#gid=0">TCG Google Sheet Database</a></li>
-    <li><a href="https://www.appsheet.com/start/e9968124-a68c-499a-87c9-5528b8963bdb">TCG Appsheet</li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://jordantanudjaja.github.io/Personal-TCG-Website/">Personal TCG Website</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/spreadsheets/d/1HXlNQt9LvZLEuLr5fW8b4DU7LpbNulrfEPDndrE7Abc/edit?gid=0#gid=0">TCG Google Sheet Database</a></li>
+    <li><a target="_blank" rel="noopener noreferrer" href="https://www.appsheet.com/start/e9968124-a68c-499a-87c9-5528b8963bdb">TCG Appsheet</li>
 </ul>
