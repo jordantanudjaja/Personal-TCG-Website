@@ -1,13 +1,14 @@
 # Personal-TCG-Website
 A website built using Google Apps Script and Google Sheets as the database to show a complete list of cards for different TCGs. The website is updated automatically every week through a Google Apps Script Trigger that copies the information from other Google Sheets that contain the list of cards of each TCG. Those Google Sheets contain Apps Scripts that call specific APIs to get card information from each TCG, including the average market price. An Appsheet that is connected to the original Google Sheet data sources for all of the TCG acts as the front-end displaying web app that displays all the cards and also includes other features like Deck Building, Inventory, and Data Insights.
 
-Potential idea expansion: Include data from other TCG, like Digimon
+Potential idea expansion: Include data from other TCG
 
 <b>Current TCG Included:</b>
 <ol>
     <li>Yugioh</li>
     <li>One Piece</li>
     <li>Pokemon</li>
+    <li>Digimon</li>
 </ol>
 
 <b>Important Links:</b>
